@@ -50,11 +50,6 @@ const Contact = ({ darkMode }) => {
               jiya15092007@gmail.com
             </a>
           </div>
-
-          <div className="flex items-center justify-center gap-3">
-            <Phone className="text-purple-500" />
-            <span>+91 7004835200</span>
-          </div>
         </div>
 
         {/* Social Links */}

@@ -70,17 +70,6 @@ const Hero = ({ darkMode }) => {
           >
             View Projects
           </a>
-
-          <a
-            href="/resume.pdf"
-            className={`px-8 py-3 rounded-full border transition hover:scale-105 ${
-              darkMode
-                ? "border-white/20 hover:bg-white/10"
-                : "border-gray-300 hover:bg-gray-100"
-            }`}
-          >
-            Download Resume
-          </a>
         </div>
 
         {/* Social Links */}

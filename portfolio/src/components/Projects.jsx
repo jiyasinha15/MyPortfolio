@@ -8,7 +8,7 @@ const projects = [
     description:
       "A responsive weather application that fetches real-time weather data using APIs with asynchronous JavaScript operations.",
     tech: ["React", "JavaScript", "API", "CSS"],
-    github: "https://github.com/jiyasinha15",
+    github: "https://github.com/jiyasinha15/Assignment02-JS",
     live: "https://assignment02-js.vercel.app", 
     gradient: "from-cyan-500 to-blue-600",
     emoji: "🌦️",
@@ -18,7 +18,7 @@ const projects = [
     description:
       "Interactive cryptocurrency dashboard displaying market trends, live prices, and analytics with dynamic data visualization.",
     tech: ["React", "Chart.js", "API", "Tailwind CSS"],
-    github: "https://github.com/jiyasinha15",
+    github: "https://github.com/jiyasinha15/Stock-Dashboard",
     live: "https://stock-dashboard-steel-three.vercel.app/",
     gradient: "from-yellow-500 to-orange-600",
     emoji: "📈",
@@ -28,8 +28,18 @@ const projects = [
     description:
       "Modern real estate platform featuring property listings, search filters, and responsive user experience.",
     tech: ["HTML", "CSS"],
-    github: "https://github.com/jiyasinha15",
+    github: "https://github.com/jiyasinha15/Assignment02-JS",
     live: "https://capstone-web-dev-sigma.vercel.app", 
+    gradient: "from-purple-500 to-pink-600",
+    emoji: "🏠",
+  },
+  {
+    title: "Disaster Management System",
+    description:
+      "A comprehensive system for managing and responding to disaster situations with real-time communication and resource allocation.",
+    tech: ["React", "Node.js", "Express", "MySQL"],
+    github: "https://github.com/jiyasinha15/disaster-management-system",
+    live: "https://disaster-management-frontend-a9pa.onrender.com", 
     gradient: "from-purple-500 to-pink-600",
     emoji: "🏠",
   },

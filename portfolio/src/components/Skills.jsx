@@ -23,7 +23,7 @@ const skills = [
   { name: "Express", icon: <SiExpress size={40} /> },
   { name: "MySQL", icon: <SiMysql size={40} /> },
   { name: "Git", icon: <FaGitAlt size={40} /> },
-  { name: "Postman", icon: <SiPostman size={40} /> },
+
 ];
 
 const Skills = ({ darkMode }) => {
